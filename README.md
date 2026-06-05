@@ -1,4 +1,4 @@
-# ltewarisixthstreet.github.io "Demo page for Jonathan"
+# "Demo page for Jonathan"
 
 <!DOCTYPE html>
 
@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artisan Walls - Premium Finishes Prototype</title>
+    <body> Schedule your personalized consultation today.  Embark on a journey to create your whole-home renovation in the Austin area. Our master builders are ready to bring your unique vision to life, blending timeless elegance with modern luxury. </body>
     <style>
         :root {
             --bg-color: #fcfbfa;
