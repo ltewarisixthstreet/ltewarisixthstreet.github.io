@@ -1,4 +1,4 @@
-# ltewarisixthstreet.github.io "Miraya to learn code"
+# ltewarisixthstreet.github.io "Demo page for Jonathan"
 
 <!DOCTYPE html>
 
